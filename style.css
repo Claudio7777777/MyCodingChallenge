@@ -1,0 +1,85 @@
+body {
+  background: url(background.jpg) no-repeat top center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.main{
+  margin: auto;
+  width: 57%;
+  padding: 60px;
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-bottom: 90px;
+  font-family:"verdana";
+}
+
+.logocontainer{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.logo{
+  height: 83px;
+}
+
+.title{
+  color: #0ed40e;
+  text-align: center;
+  font-size: 25px;
+}
+
+.greenbar{
+  background-color: #0ed40e;
+  text-align: center;
+  padding: 10px;
+  border-radius: 0.2px;
+}
+
+.orangebar{
+  background-color: #f5b453;
+  padding: 12px;
+  width: 33%;
+  border-radius: 5px;
+}
+
+.darkgreenbar{
+  background-color: #1ec31e;
+  padding: 10px;
+  width: 57%;
+  border-radius: 5px;
+}
+
+.redbar{
+  background-color: #be4141;
+  padding: 10px;
+  width: 14%;
+  border-radius: 5px;
+}
+
+.sondaggio{
+  color: white;
+}
+
+label{
+  font-size: 24px;
+}
+
+#subtitle{
+  font-size: 20px;
+}
+
+.font{
+  font-size: 15px;
+}
+
+.fontmonopattino{
+  font-size: 16px;
+}
+
+section{
+  font-family:"verdana";
+  font-size: 13px;
+}
